@@ -1,5 +1,6 @@
 # Alexis Stone
 :wave: Hey, I’m Alexis Stone, a full stack software engineer from the Bay Area. I love learning new technologies.
+
 ![Alexis’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alexislcstone&show_icons=true&theme=radical)
 - :telescope: **I’m currently working on:** Full Stack Dog Social Media
 - :seedling: **I’m currently learning:** system design
