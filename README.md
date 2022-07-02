@@ -11,7 +11,7 @@
 - :smile: **Pronouns:** she/her
 - :mailbox: How to reach me **alexislcstone@gmail.com**
 ## Contact Info
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acs-alexis/) ![Gmail](https://img.shields.io/badge/Alexis-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acs-alexis/)
 ## Portfolio Projects
 - [Boundless](https://github.com/TeamStorm2204/TeamStorm.git) (Front End)
 - [Atelier](https://github.com/SDC-Ewok/SDC-Ratings.git) (Back End)
